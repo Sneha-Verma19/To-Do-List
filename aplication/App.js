@@ -63,11 +63,12 @@ const styles = StyleSheet.create(
       marginVertical: 40,
       width: deviceWidth,
       textAlign: 'center',
-      color: 'blue',
+      color: 'Pink',
       fontWeight: 'bold',
       textShadowColor: 'blue',
       textShadowRadius: 5,
     },
+    
     field: {
       borderColor: 'black',
       borderWidth: 1,
